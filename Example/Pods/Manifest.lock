@@ -1,0 +1,16 @@
+PODS:
+  - anishCircularView (0.1.0)
+
+DEPENDENCIES:
+  - anishCircularView (from `../`)
+
+EXTERNAL SOURCES:
+  anishCircularView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  anishCircularView: 51fc0359ea7a83f438bbed98574f1fec082acd5d
+
+PODFILE CHECKSUM: 6f8222f9e4313e720129f3b6057a05cea7b59de0
+
+COCOAPODS: 1.7.1

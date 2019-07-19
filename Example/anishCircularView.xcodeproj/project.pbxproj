@@ -41,10 +41,10 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		6D94F92FBBE6B09DD44C7B2B /* Pods-anishCircularView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-anishCircularView_Example.debug.xcconfig"; path = "Target Support Files/Pods-anishCircularView_Example/Pods-anishCircularView_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		817D53C8B0758E8961BE57F5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		877875F51B646E85A9D2BCED /* anishCircularView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = anishCircularView.podspec; path = ../anishCircularView.podspec; sourceTree = "<group>"; };
+		817D53C8B0758E8961BE57F5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		877875F51B646E85A9D2BCED /* anishCircularView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = anishCircularView.podspec; path = ../anishCircularView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		8D9D89B65F62EDB36EC0B99B /* Pods_anishCircularView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_anishCircularView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C5022B7B0A7D7495AE340A19 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		C5022B7B0A7D7495AE340A19 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		C71A44DB6A9C7B47FB70F7B9 /* Pods_anishCircularView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_anishCircularView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4A2EB567F8CD438D28231C1 /* Pods-anishCircularView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-anishCircularView_Example.release.xcconfig"; path = "Target Support Files/Pods-anishCircularView_Example/Pods-anishCircularView_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -147,7 +147,6 @@
 				116D6372E477376B52BC2E57 /* Pods-anishCircularView_Tests.debug.xcconfig */,
 				058EF5902322ADFBB5536B87 /* Pods-anishCircularView_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

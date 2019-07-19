@@ -1,0 +1,6 @@
+framework module Pods_anishCircularView_Tests {
+  umbrella header "Pods-anishCircularView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

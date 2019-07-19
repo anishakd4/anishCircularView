@@ -1,0 +1,6 @@
+framework module anishCircularView {
+  umbrella header "anishCircularView-umbrella.h"
+
+  export *
+  module * { export * }
+}

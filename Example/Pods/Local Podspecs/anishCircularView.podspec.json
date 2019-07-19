@@ -1,0 +1,22 @@
+{
+  "name": "anishCircularView",
+  "version": "0.1.0",
+  "summary": "A short description of anishCircularView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/anish/anishCircularView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "anish": "anishakd4@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/anish/anishCircularView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "anishCircularView/Classes/**/*"
+}
