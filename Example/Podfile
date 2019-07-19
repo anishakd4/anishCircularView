@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'anishCircularView_Example' do
+  pod 'anishCircularView', :path => '../'
+
+  target 'anishCircularView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
