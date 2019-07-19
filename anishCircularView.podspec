@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-This is a sample control that has a circular UIView.
+This is a sample control that has a circular UIView. This is a bit different from summary.
                        DESC
 
   s.homepage         = 'https://github.com/anishakd4/anishCircularView'
